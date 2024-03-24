@@ -1,0 +1,25 @@
+img {
+  height: 50%;
+  width: 50%;
+  margin-left: 25%;
+  border: 5px solid white;
+  margin-top: 50px;
+  
+}
+
+h1 {
+  text-transform: uppercase;
+  color: beige;
+  text-align: center;
+}
+
+p {
+ 
+  color: beige;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  
+}
