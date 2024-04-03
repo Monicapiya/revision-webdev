@@ -24,3 +24,26 @@ console.log(isOnSale);
 let isTrue;
 isTrue = true;
 console.log(isTrue);
+
+/* 
+All of the following values are falsy:
+false
+null
+undefined
+0
+-0
+NaN
+An empty string ('')
+
+*/
+
+let num = 5;
+num = 0;
+const bool = Boolean(num);
+console.log(bool);
+
+
+function sum(x, y) {
+  return x + y;
+  console.log("Hello World"); 
+
