@@ -47,3 +47,17 @@ function sum(x, y) {
   return x + y;
   console.log("Hello World"); 
 
+  function sum(a, b) {
+    return a + b;
+  
+  }
+
+console.log(sum(1, 3));
+console.log(sum(2, 5));
+
+function multiply(a, b) {
+  return a * b;
+  }
+  
+  console.log(multiply(2, 4));
+  console.log(multiply(3, 2));
