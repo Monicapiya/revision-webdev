@@ -1,4 +1,5 @@
-$(document).ready(function)() {
-  $("h1").css("color", "maroon");
-}
+$("h1").text("Good");
+
+$("button");
+
 
